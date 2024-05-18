@@ -1,0 +1,22 @@
+baseURL: https://brentglowinski.com
+languageCode: en-us
+title: brent has a website
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: hello
+    Content: this is one of the sites of all time
+  socialIcons:
+    - name: "mastodon"
+      url: "https://mastodon.social/@brenticus"
+    - name: "github"
+      url: "https://github.com/BrenTicus"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/brent-glowinski-b547748b/"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
