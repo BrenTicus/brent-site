@@ -1,7 +1,7 @@
 +++
 title = 'a bunch of files in vim'
 date = 2024-05-18
-draft = true
+draft = false
 +++
 
 Removing Visual Studio Code from my life is easy in a lot of ways. My vim setup is much prettier. It's much faster. The plugins do exactly what I want without a bunch of crud caked around the edges.
