@@ -33,6 +33,8 @@ params:
       url: "https://github.com/BrenTicus"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/brent-glowinski-b547748b/"
+    - name: "storygraph"
+      url: "https://app.thestorygraph.com/profile/brenticus"
   ShowAllPagesInArchive: true
 
 outputs:
