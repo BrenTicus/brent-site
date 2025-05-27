@@ -35,6 +35,8 @@ params:
       url: "https://www.linkedin.com/in/brent-glowinski-b547748b/"
     - name: "storygraph"
       url: "https://app.thestorygraph.com/profile/brenticus"
+    - name: "rss"
+      url: "index.xml"
   ShowAllPagesInArchive: true
 
 outputs:
